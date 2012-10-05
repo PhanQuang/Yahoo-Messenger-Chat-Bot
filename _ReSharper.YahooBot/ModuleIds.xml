@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="296E94D2-4499-4945-BCEE-7D8483B23959" ModuleId="YahooBot" />
+  <Module PersistentId="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023" ModuleId="YahooLib" />
+  <Module PersistentId="1071EAE8-C5C8-4AD9-89CB-684475BFDB68" ModuleId="Utility" />
+</Modules>
