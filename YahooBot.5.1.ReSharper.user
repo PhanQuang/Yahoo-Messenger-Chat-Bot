@@ -10,11 +10,14 @@
     <RecentFiles>
       <File id="1071EAE8-C5C8-4AD9-89CB-684475BFDB68/f:HttpUtil.cs" caret="0" fromTop="0" />
       <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:CommonConst.cs" caret="1441" fromTop="22" />
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:FetchData.cs" caret="1655" fromTop="0" />
       <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/d:ResponseData/f:Message.cs" caret="758" fromTop="26" />
       <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/d:ResponseData/f:BuddyRequest.cs" caret="399" fromTop="9" />
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:MessageManager.cs" caret="1977" fromTop="46" />
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:SignManager.cs" caret="3847" fromTop="107" />
+      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:FetchData.cs" caret="0" fromTop="0" />
+      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:MessageManager.cs" caret="0" fromTop="0" />
+      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:SignManager.cs" caret="0" fromTop="0" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:ConfigInfo.cs" caret="517" fromTop="9" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:Menu.cs" caret="1256" fromTop="27" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="435" fromTop="6" />
     </RecentFiles>
     <RecentEdits>
       <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:FetchData.cs" caret="48" fromTop="1" />
@@ -28,6 +31,17 @@
       <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:MessageManager.cs" caret="134" fromTop="6" />
       <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:MessageManager.cs" caret="1982" fromTop="46" />
       <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:SignManager.cs" caret="3847" fromTop="35" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="48" fromTop="1" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:Menu.cs" caret="118" fromTop="6" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:Menu.cs" caret="1261" fromTop="27" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:ConfigInfo.cs" caret="1019" fromTop="20" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:ConfigInfo.cs" caret="707" fromTop="11" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="503" fromTop="16" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="507" fromTop="9" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="383" fromTop="9" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="892" fromTop="16" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="1832" fromTop="20" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="1731" fromTop="15" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -41,4 +55,13 @@
     </NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="interface" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="_pluginContainer" priority="0" />
+      <Item value="str" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>
