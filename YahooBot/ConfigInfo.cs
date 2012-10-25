@@ -14,6 +14,11 @@ namespace YahooBot
         public string ConsummerSecret { get; set; }
         public string Status { get; set; }
 
+        public ConfigInfo()
+        {
+            ReadConfigFile();
+        }
+
         public void ReadConfigFile()
         {
             StreamReader stream = File.OpenText("config.dat");

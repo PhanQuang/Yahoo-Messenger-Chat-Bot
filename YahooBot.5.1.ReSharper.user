@@ -3,6 +3,7 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
@@ -14,34 +15,44 @@
       <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/d:ResponseData/f:BuddyRequest.cs" caret="399" fromTop="9" />
       <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:FetchData.cs" caret="0" fromTop="0" />
       <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:MessageManager.cs" caret="0" fromTop="0" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:ConfigInfo.cs" caret="475" fromTop="6" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:Menu.cs" caret="2217" fromTop="26" />
       <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:SignManager.cs" caret="0" fromTop="0" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:ConfigInfo.cs" caret="517" fromTop="9" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:Menu.cs" caret="1256" fromTop="27" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="435" fromTop="6" />
+      <File id="1C76D02D-8650-4F93-B600-65841489A121/f:IPlugin.cs" caret="48" fromTop="1" />
+      <File id="56EE374F-924A-416D-B66D-1DED3DD96FAC/f:Avatar.cs" caret="730" fromTop="15" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="347" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:FetchData.cs" caret="48" fromTop="1" />
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:CommonConst.cs" caret="99" fromTop="6" />
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:CommonConst.cs" caret="1441" fromTop="20" />
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:FetchData.cs" caret="1664" fromTop="0" />
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/d:ResponseData/f:Message.cs" caret="141" fromTop="6" />
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/d:ResponseData/f:Message.cs" caret="763" fromTop="26" />
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/d:ResponseData/f:BuddyRequest.cs" caret="1900" fromTop="20" />
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/d:ResponseData/f:BuddyRequest.cs" caret="408" fromTop="9" />
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:MessageManager.cs" caret="134" fromTop="6" />
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:MessageManager.cs" caret="1982" fromTop="46" />
-      <File id="AD12AB52-ECDD-4DAC-B67E-F7B5931E2023/f:SignManager.cs" caret="3847" fromTop="35" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="48" fromTop="1" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:Menu.cs" caret="118" fromTop="6" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:Menu.cs" caret="1261" fromTop="27" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:ConfigInfo.cs" caret="1019" fromTop="20" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:ConfigInfo.cs" caret="707" fromTop="11" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="503" fromTop="16" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="507" fromTop="9" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="383" fromTop="9" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="892" fromTop="16" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="1832" fromTop="20" />
-      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="1731" fromTop="15" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="6724" fromTop="0" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="6724" fromTop="13" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="6724" fromTop="16" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="751" fromTop="11" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="1618" fromTop="14" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="1039" fromTop="11" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="3109" fromTop="13" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="8733" fromTop="9" />
+      <File id="1C76D02D-8650-4F93-B600-65841489A121/f:IPlugin.cs" caret="48" fromTop="1" />
+      <File id="56EE374F-924A-416D-B66D-1DED3DD96FAC/f:Avatar.cs" caret="48" fromTop="1" />
+      <File id="56EE374F-924A-416D-B66D-1DED3DD96FAC/f:Avatar.cs" caret="143" fromTop="7" />
+      <File id="56EE374F-924A-416D-B66D-1DED3DD96FAC/f:Avatar.cs" caret="233" fromTop="7" />
+      <File id="56EE374F-924A-416D-B66D-1DED3DD96FAC/f:Avatar.cs" caret="346" fromTop="12" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="2505" fromTop="11" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="2391" fromTop="10" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="6711" fromTop="14" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="6724" fromTop="11" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="6724" fromTop="11" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="6724" fromTop="10" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="6968" fromTop="20" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="3590" fromTop="9" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="4740" fromTop="11" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="5836" fromTop="13" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="6096" fromTop="11" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="6523" fromTop="13" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="6724" fromTop="14" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="641" fromTop="7" />
+      <File id="296E94D2-4499-4945-BCEE-7D8483B23959/f:MainBot.cs" caret="1383" fromTop="8" />
+      <File id="56EE374F-924A-416D-B66D-1DED3DD96FAC/f:Avatar.cs" caret="838" fromTop="10" />
+      <File id="56EE374F-924A-416D-B66D-1DED3DD96FAC/f:Avatar.cs" caret="730" fromTop="6" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -58,10 +69,114 @@
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
       <Item value="interface" priority="0" />
-      <Item value="string" priority="0" />
-      <Item value="Dictionary" priority="0" />
-      <Item value="_pluginContainer" priority="0" />
+      <Item value="string" priority="6" />
+      <Item value="Dictionary" priority="1" />
+      <Item value="_pluginContainer" priority="2" />
       <Item value="str" priority="0" />
+      <Item value="_config" priority="0" />
+      <Item value="new" priority="11" />
+      <Item value="ConfigInfo" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="ConfigInfo`0" priority="0" />
+      <Item value="ReadConfigFile`0" priority="0" />
+      <Item value="MainBot`0" priority="1" />
+      <Item value="Init`0" priority="0" />
+      <Item value="private" priority="8" />
+      <Item value="void" priority="5" />
+      <Item value="bool" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="try" priority="1" />
+      <Item value="catch" priority="1" />
+      <Item value="JArray`0" priority="1" />
+      <Item value="_dataResponse" priority="1" />
+      <Item value="var" priority="9" />
+      <Item value="return" priority="6" />
+      <Item value="cmd" priority="0" />
+      <Item value="content" priority="2" />
+      <Item value="GetCommand`0" priority="0" />
+      <Item value="message" priority="4" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="if" priority="6" />
+      <Item value="_menu" priority="3" />
+      <Item value="Menus" priority="0" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="0" />
+      <Item value="node" priority="1" />
+      <Item value="Hashtable`0" priority="0" />
+      <Item value="Cmd" priority="1" />
+      <Item value="Hashtable" priority="1" />
+      <Item value="ContentMenu" priority="1" />
+      <Item value="List" priority="1" />
+      <Item value="tmp" priority="3" />
+      <Item value="command" priority="2" />
+      <Item value="foreach" priority="1" />
+      <Item value="s" priority="1" />
+      <Item value="_messManager" priority="1" />
+      <Item value="plugin" priority="2" />
+      <Item value="continue" priority="1" />
+      <Item value="Thread`0" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="Console`0" priority="0" />
+      <Item value="input" priority="2" />
+      <Item value="List&lt;string&gt;" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="IPlugin`0" priority="0" />
+      <Item value="StringUtil`0" priority="1" />
+      <Item value="path" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="lock" priority="1" />
+      <Item value="JArray" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:YahooLib.ResponseData.Message">
+      <Item value="Msg" priority="0" />
+      <Item value="Sender" priority="1" />
+      <Item value="MakeJsonMessage`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNode">
+      <Item value="Name" priority="0" />
+      <Item value="InnerText" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Trim`0" priority="6" />
+      <Item value="ToUpper`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Hashtable">
+      <Item value="Add`0" priority="1" />
+      <Item value="ContainsKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:YahooBot.Menu">
+      <Item value="ContentMenu" priority="1" />
+      <Item value="Cmd" priority="0" />
+      <Item value="NotExsisStr" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:YahooLib.MessageManager">
+      <Item value="SendMessage`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PluginReader.IPlugin">
+      <Item value="Process`0" priority="0" />
+      <Item value="PluginName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Utility.StringUtil">
+      <Item value="Split`0" priority="0" />
+      <Item value="Replace`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
